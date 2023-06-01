@@ -15,7 +15,7 @@ IMAGEM_PASSAROS = [
 ]
 
 pygame.font.init()
-FONTE_PONTOS = pygame.font.SysFont("arial", 50)
+FONTE_PONTOS = pygame.font.SysFont("arial", 40)
 
 
 class Passaro:
